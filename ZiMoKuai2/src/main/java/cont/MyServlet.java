@@ -29,6 +29,7 @@ public class MyServlet extends HttpServlet {
 		Demo d=new Demo();
 		d.test();
 		System.out.println("zzzzzzzz");
+		System.out.println("fjkdsfnkjsdnfkjsdnfkj");
 		// TODO Auto-generated method stub
 		response.getWriter().append("Served at: ").append(request.getContextPath());
 	}
